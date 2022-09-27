@@ -11,7 +11,7 @@ The project comes with a smart contract, a test for that contract, a sample scri
 
 ## Setup
 ```shell
-git clone https://github.com/3bodymo/hardhat-fund-me
+git clone https://github.com/3bodymo/hardhat-fund-me.git
 cd hardhat-fund-me
 yarn
 ```
