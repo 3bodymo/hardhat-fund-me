@@ -23,15 +23,15 @@ yarn
 ## Usage
 
 ### Deploy
-To deploy on **hardhat network**
+To deploy on **Hardhat Network**
 ```shell
 yarn hardhat deploy
 ```
-To deploy on testnet network like [**Goerli**](https://goerli.etherscan.io/)
+To deploy on testnet like [**Goerli Network**](https://goerli.etherscan.io/)
 ```shell
 yarn hardhat deploy --network goerli
 ```
-To deploy on [**localhost network**](https://hardhat.org/hardhat-network/docs/overview), at first run a node in separate terminal
+To deploy on [**localhost Network**](https://hardhat.org/hardhat-network/docs/overview), at first run a node in separate terminal
 ```shell
 yarn hardhat node
 ```
