@@ -27,7 +27,7 @@ To deploy on **Hardhat Network**
 ```shell
 yarn hardhat deploy
 ```
-To deploy on testnet like [**Goerli Network**](https://goerli.etherscan.io/)
+To deploy on testnet like [**Goerli Network**](https://goerli.etherscan.io)
 ```shell
 yarn hardhat deploy --network goerli
 ```
